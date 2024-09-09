@@ -1,0 +1,10 @@
+{
+ "packageRules": [
+    {
+      "description": "Automerge .nvmrc files",
+      "matchFileNames": [".nvmrc"],
+      "automerge": true,
+      "ignoreTests": true
+    }
+  ]
+}
